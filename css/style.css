@@ -77,8 +77,10 @@ body {
   margin-bottom: 5rem;
 }
 
-/* #tribute-link {
-} */
+ #tribute-link:hover {
+    color: gray;
+    text-decoration: none;
+} 
 
 #quote {
   max-width: 54.5rem;
